@@ -1,0 +1,58 @@
+{
+    "id" : 0,
+    "nombre" : "nombre",
+    "tiradores" : [
+        {
+            "nombre" : "nombre",
+            "club" : "club",
+            "id" : "id",
+            "ranking" : 0,
+            "nacimiento" : ""
+        },
+        {
+            "nombre" : "nombre",
+            "club" : "club",
+            "id" : "id",
+            "ranking" : 0,
+            "nacimiento" : ""
+        },
+        {
+            "nombre" : "nombre",
+            "club" : "club",
+            "id" : "id",
+            "ranking" : 0,
+            "nacimiento" : ""
+        }
+    ],
+    "formato" : {
+
+    },
+    "poules" : [
+        {
+            "tiradores" : [{
+                "iv" : 0,
+                "td" : 0,
+                "tr" : 0,
+                "td-tr" : 0
+            }
+
+            ],
+            "asaltos" : {
+                {
+                    "tirador1" : {},
+                    "tirador2" : {},
+                    "resultado" : 
+                }
+            }
+        }
+    ],
+    "clasificacion" : [{
+        "tr" : 0,
+        "td-tr" : 0
+    }],
+    "tableau" : {
+        "128" : [],
+        "64" : [],
+        ...
+    }
+}
